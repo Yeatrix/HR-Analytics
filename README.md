@@ -19,6 +19,11 @@ This repository contains my project on analyzing employee attrition data and cre
     EmpID	Age	AgeGroup	Attrition	BusinessTravel	DailyRate	Department	DistanceFromHome	Education	EducationField	EmployeeCount	EmployeeNumber	EnvironmentSatisfaction	Gender	HourlyRate	JobInvolvement	JobLevel	JobRole	JobSatisfaction	MaritalStatus	MonthlyIncome	SalarySlab	MonthlyRate	NumCompaniesWorked	Over18	OverTime	PercentSalaryHike	PerformanceRating	RelationshipSatisfaction	StandardHours	StockOptionLevel	TotalWorkingYears	TrainingTimesLastYear	WorkLifeBalance	YearsAtCompany	YearsInCurrentRole	YearsSinceLastPromotion	YearsWithCurrManager
 ![image](https://github.com/Yeatrix/HR-Analytics/assets/162366000/bf8e224a-157f-4d62-8ea0-5aaae3664167)
 
-- using the pivot table in excel, i tried to figure out what can be my possible kpi's and what can be usefull information to show.
+- Using the pivot table in excel, i tried to figure out what can be my possible kpi's and what can be usefull information to show.
+
+
+# The final Dashboard
+![image](https://github.com/Yeatrix/HR-Analytics/assets/162366000/f7bf2153-cf56-4706-bd79-3e5e81160c53)
+
 
   
