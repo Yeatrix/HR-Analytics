@@ -1,4 +1,4 @@
-![image](https://github.com/Yeatrix/HR-Analytics/assets/162366000/d2299b93-a1ae-4689-9132-60485e5f8c1c)# HR-Analytics
+# HR-Analytics
 This repository contains my project on analyzing employee attrition data and creating an interactive dashboard to answer key HR-related questions. The project aims to help me understand the end-to-end workflow of working with data and presenting actionable insights through a dashboard.
 
 ----
